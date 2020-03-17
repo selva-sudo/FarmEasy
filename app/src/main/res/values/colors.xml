@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3DB104</color>
+    <color name="colorPrimaryDark">#3DB104</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lime_green">#90EE90</color>
+    <color name="thick_green">#008000</color>
+    <color name="green">#FFA6DA6B</color>
+    <color name="divider">#DDC786</color>
+    <color name="temp">#FCFAFA</color>
+    <color name="browser_actions_divider_color">#1E000000</color>
+    <color name="color_blue">#2196F3</color>
+    <color name="color_white">#ffffff</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FarmEasy-BuyerApp</string>
+    <string name="sign_up"><u>Sign-up?</u></string>
+    <string name="button_allow">Allow</string>
+    <string name="button_deny">Deny</string>
+    <string name="snack_bar_title">Allow permissions to access data</string>
+    <string name="snack_bar_btn">Open Settings</string>
+    <string name="permission_camera_rationale">Allow permissions</string>
+    <string name="permission_camera_denied">Permissions denied</string>
+    <string name="no_network_toast">No network</string>
+    <string name="network_state_on">Network available</string>
+    <string name="network_state_off">Network unavailable</string>
+
+    <string name="rs">RS %1s</string>
+    <string name="title_activity_cart_list">CartList</string>
+
+    <string name="about_us_content">     This application is developed farmers and buyers without <b>middle man</b> contact.\n        By using this application users can easily interact with buyers and sell their products in higher cost.</string>
+
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="notification_text">Distance</string>
+    <string-array name="card_spinner_items">
+        <item>Debit card</item>
+        <item>Credit card</item>
+    </string-array>
+    <string-array name="cards_spinner">
+        <item>Visa</item>
+        <item>Master card</item>
+    </string-array>
+</resources>

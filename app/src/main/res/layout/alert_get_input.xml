@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:padding="30dp"
+    android:background="@color/browser_actions_divider_color"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/calibri"
+            android:text="Enter Quantity"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:fontFamily="@font/calibri"
+            android:text="RS"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+        <EditText
+            android:layout_width="match_parent"
+            android:id="@+id/et_product_quatity_get"
+            android:padding="@dimen/margin_10dp"
+            android:layout_marginLeft="@dimen/margin_20dp"
+            android:background="@drawable/rounded_edit_text"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_20dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
